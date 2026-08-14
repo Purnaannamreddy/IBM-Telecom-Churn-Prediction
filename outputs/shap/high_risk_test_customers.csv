@@ -1,0 +1,6 @@
+rank,CustomerID,predicted_probability,decision_threshold,predicted_churn,actual_churn,top_shap_factors
+1,5178-LMXOP,0.9615,0.3005,1,1,Charges Per Tenure (+1.507); Tenure Months (+0.790); Contract_Month-to-month (+0.337)
+2,0295-PPHDO,0.9478,0.3005,1,1,Charges Per Tenure (+1.513); Tenure Months (+0.790); Contract_Month-to-month (+0.337)
+3,7181-BQYBV,0.9471,0.3005,1,1,Charges Per Tenure (+1.638); Tenure Months (+0.790); Contract_Month-to-month (+0.337)
+4,1069-XAIEM,0.9231,0.3005,1,1,Charges Per Tenure (+1.327); Tenure Months (+0.790); Contract_Month-to-month (+0.337)
+5,0970-ETWGE,0.9175,0.3005,1,1,Charges Per Tenure (+1.408); Tenure Months (+0.790); Contract_Month-to-month (+0.337)

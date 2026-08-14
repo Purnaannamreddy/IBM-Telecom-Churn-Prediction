@@ -1,0 +1,58 @@
+feature,mean_abs_shap
+Tenure Months,0.5332356564278432
+Contract_Month-to-month,0.363502546973239
+Dependents_No,0.2941265652706751
+Dependents_Yes,0.2938688222729821
+Contract_Two year,0.27991301137187763
+Charges Per Tenure,0.20259047681902484
+Internet Service_Fiber optic,0.15828830356981352
+Internet Service_DSL,0.13540894052697933
+Total Charges,0.13364907756583783
+Payment Method_Electronic check,0.10729212293572218
+Online Security_No,0.09991667015209835
+Multiple Lines_No,0.09821735723954884
+Tech Support_No,0.08878455516764769
+Paperless Billing_Yes,0.08613427259905632
+Paperless Billing_No,0.0858223947179116
+Multiple Lines_Yes,0.07905539350622176
+Online Security_Yes,0.07150530659120924
+Partner_Yes,0.06967994578714405
+Has Phone,0.06964475358627048
+Partner_No,0.06934988935901273
+Avg Monthly Charges,0.0664201455986342
+Streaming TV_Yes,0.06286078005738364
+Streaming Movies_Yes,0.06242296816753807
+Has Internet,0.06175664636176233
+Tech Support_Yes,0.059345244125158986
+Streaming TV_No,0.05131995926033283
+Monthly Charges,0.051271034630104004
+Tenure Band_0-12,0.04939569348045337
+Long Tenure,0.04805505606054587
+Streaming Movies_No,0.047078729633651804
+Payment Method_Credit card (automatic),0.046800143659355094
+Online Backup_No,0.04183755292582185
+Multiple Services,0.03979567035618002
+Payment Method_Bank transfer (automatic),0.027652334238668752
+Online Backup_Yes,0.02273163398993237
+Tenure Band_13-24,0.022181854772298806
+Tenure Band_25-48,0.015775606273924218
+Payment Method_Mailed check,0.015483422624570727
+Device Protection_No,0.012680394823412733
+Online Backup_No internet service,0.010395042590121788
+Internet Service_No,0.010395042590121788
+Online Security_No internet service,0.010395042590121788
+Streaming TV_No internet service,0.010395042590121788
+Tech Support_No internet service,0.010395042590121788
+Device Protection_No internet service,0.010395042590121788
+Streaming Movies_No internet service,0.010395042590121788
+Contract_One year,0.00997122802238353
+High Monthly Charges,0.009542057109356187
+Tenure Band_49+,0.008607601145719087
+Senior Citizen_Yes,0.006392682509407308
+Multiple Lines_No phone service,0.006235537048038756
+Phone Service_No,0.006235537048038756
+Senior Citizen_No,0.006226274943915165
+Phone Service_Yes,0.006124023941283612
+Gender_Male,0.003780941916663882
+Device Protection_Yes,0.0036331151171697146
+Gender_Female,0.003453951749467075
