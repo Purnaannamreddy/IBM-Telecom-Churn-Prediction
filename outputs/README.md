@@ -38,6 +38,13 @@ A clean, single-page web dashboard is included to demonstrate real-world deploym
 
 ---
 
+## How to Run the Streamlit Web Application
+The interactive churn prediction dashboard is built with Streamlit in `app.py`.
+### Step 1: Start the Streamlit Server
+Open your terminal (PowerShell, Command Prompt, or Bash) in the project root directory and run:
+```bash
+streamlit run app.py
+
 ## Datasets Used
 
 1. **IBM Telco Customer Churn (`IBM_Telco_customer_churn_IBM_dataset.csv`)**:
@@ -53,3 +60,5 @@ A clean, single-page web dashboard is included to demonstrate real-world deploym
 ```bash
 git clone https://github.com/Purnaannamreddy/telecom-churn-prediction-MSc-Project.git
 cd telecom-churn-prediction-MSc-Project
+
+
