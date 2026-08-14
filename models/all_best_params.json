@@ -1,0 +1,83 @@
+{
+  "LogisticRegression__none": {
+    "model__C": 0.1,
+    "model__penalty": "l2",
+    "model__solver": "lbfgs"
+  },
+  "LogisticRegression__class_weight": {
+    "model__C": 0.1,
+    "model__penalty": "l2",
+    "model__solver": "lbfgs"
+  },
+  "LogisticRegression__smote": {
+    "model__C": 0.01,
+    "model__penalty": "l2",
+    "model__solver": "lbfgs"
+  },
+  "RandomForest__none": {
+    "model__max_depth": 16,
+    "model__max_features": "sqrt",
+    "model__min_samples_leaf": 3,
+    "model__min_samples_split": 9,
+    "model__n_estimators": 388
+  },
+  "RandomForest__class_weight": {
+    "model__max_depth": 16,
+    "model__max_features": "sqrt",
+    "model__min_samples_leaf": 3,
+    "model__min_samples_split": 9,
+    "model__n_estimators": 388
+  },
+  "RandomForest__smote": {
+    "model__max_depth": 16,
+    "model__max_features": "sqrt",
+    "model__min_samples_leaf": 3,
+    "model__min_samples_split": 9,
+    "model__n_estimators": 388
+  },
+  "XGBoost__none": {
+    "model__colsample_bytree": 0.7299924747454009,
+    "model__gamma": 0.13777466758976015,
+    "model__learning_rate": 0.06338211944807284,
+    "model__max_depth": 4,
+    "model__min_child_weight": 6,
+    "model__n_estimators": 458,
+    "model__subsample": 0.9909729556485982
+  },
+  "XGBoost__smote": {
+    "model__colsample_bytree": 0.7299924747454009,
+    "model__gamma": 0.13777466758976015,
+    "model__learning_rate": 0.06338211944807284,
+    "model__max_depth": 4,
+    "model__min_child_weight": 6,
+    "model__n_estimators": 458,
+    "model__subsample": 0.9909729556485982
+  },
+  "LightGBM__none": {
+    "model__colsample_bytree": 0.7467983561008608,
+    "model__learning_rate": 0.02755086958186593,
+    "model__max_depth": 6,
+    "model__min_child_samples": 13,
+    "model__n_estimators": 301,
+    "model__num_leaves": 17,
+    "model__subsample": 0.7061753482887407
+  },
+  "LightGBM__class_weight": {
+    "model__colsample_bytree": 0.7467983561008608,
+    "model__learning_rate": 0.02755086958186593,
+    "model__max_depth": 6,
+    "model__min_child_samples": 13,
+    "model__n_estimators": 301,
+    "model__num_leaves": 17,
+    "model__subsample": 0.7061753482887407
+  },
+  "LightGBM__smote": {
+    "model__colsample_bytree": 0.7467983561008608,
+    "model__learning_rate": 0.02755086958186593,
+    "model__max_depth": 6,
+    "model__min_child_samples": 13,
+    "model__n_estimators": 301,
+    "model__num_leaves": 17,
+    "model__subsample": 0.7061753482887407
+  }
+}

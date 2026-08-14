@@ -1,0 +1,7 @@
+{
+  "model_name": "LightGBM__class_weight",
+  "strategy": "class_weight",
+  "threshold": 0.5404563216376264,
+  "train_rows": 5634,
+  "test_rows": 1409
+}

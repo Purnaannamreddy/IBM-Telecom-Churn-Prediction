@@ -1,0 +1,8 @@
+{
+  "candidate_name": "LogisticRegression__none",
+  "model_type": "LogisticRegression",
+  "strategy": "none",
+  "best_params": "{'model__C': 0.1}",
+  "cv_roc_auc_mean": 0.8608539455628371,
+  "cv_pr_auc_mean": 0.6892229839741258
+}

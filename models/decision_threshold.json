@@ -1,0 +1,8 @@
+{
+  "threshold": 0.3004766867072054,
+  "selection_method": "training_out_of_fold_f1_maximization",
+  "oof_f1_score": 0.6532805429859373,
+  "cost_optimal_threshold": 0.14494461414675494,
+  "cost_false_negative_weight": 5.0,
+  "cost_false_positive_weight": 1.0
+}
