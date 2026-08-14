@@ -36,14 +36,15 @@ A clean, single-page web dashboard is included to demonstrate real-world deploym
 - **Live SHAP Explanations**: Automatically plots the top 5 features pushing that specific customer towards staying or churning.
 - **Model Info Tab**: Shows model performance metrics and training churn baselines.
 
----
-
 ## How to Run the Streamlit Web Application
 The interactive churn prediction dashboard is built with Streamlit in `app.py`.
 ### Step 1: Start the Streamlit Server
 Open your terminal (PowerShell, Command Prompt, or Bash) in the project root directory and run:
 ```bash
 streamlit run app.py
+---
+
+
 
 ## Datasets Used
 
