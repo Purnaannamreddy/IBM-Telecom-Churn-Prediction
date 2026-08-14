@@ -1,4 +1,4 @@
-# Explainable Customer Churn Prediction & Model Robustness
+# Customer Churn Prediction 
 ### Sriram Annamreddy
 
 ---
