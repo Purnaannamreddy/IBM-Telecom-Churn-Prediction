@@ -1,0 +1,10 @@
+candidate,model,strategy,best_params,cv_roc_auc_mean,cv_roc_auc_std,cv_pr_auc_mean,cv_pr_auc_std
+LogisticRegression__none,LogisticRegression,none,{'model__C': 0.1},0.8608539455628371,0.011855194249139599,0.6892229839741258,0.0156326434646767
+LogisticRegression__class_weight,LogisticRegression,class_weight,{'model__C': 0.1},0.8608225519131771,0.011818165354052279,0.68802771007075,0.0160273296421634
+LogisticRegression__smote,LogisticRegression,smote,{'model__C': 0.01},0.8596172616113963,0.011515098158910601,0.6869250576341194,0.017652997743971638
+RandomForest__class_weight,RandomForest,class_weight,"{'model__n_estimators': 200, 'model__min_samples_split': 5, 'model__max_depth': 10}",0.859377670860803,0.00894733549518422,0.6807553853554523,0.020482019064628855
+RandomForest__none,RandomForest,none,"{'model__n_estimators': 200, 'model__min_samples_split': 10, 'model__max_depth': 10}",0.8579013922514127,0.009770206349489855,0.6822489234975617,0.021633794220892687
+XGBoost__none,XGBoost,none,"{'model__subsample': 1.0, 'model__n_estimators': 100, 'model__max_depth': 7, 'model__learning_rate': 0.03}",0.8578763978736091,0.006370375413169686,0.6786873750704336,0.014002886845489476
+RandomForest__smote,RandomForest,smote,"{'model__n_estimators': 200, 'model__min_samples_split': 10, 'model__max_depth': 10}",0.857558940361072,0.008935113929320556,0.6718397018594178,0.02030162365951719
+XGBoost__class_weight,XGBoost,class_weight,"{'model__subsample': 1.0, 'model__n_estimators': 100, 'model__max_depth': 7, 'model__learning_rate': 0.03}",0.8563018209391327,0.005235365180972823,0.6765926848366423,0.01614141019731411
+XGBoost__smote,XGBoost,smote,"{'model__subsample': 1.0, 'model__n_estimators': 100, 'model__max_depth': 7, 'model__learning_rate': 0.03}",0.8550307268594036,0.009187681958689332,0.667683099965721,0.02129646059141773

@@ -1,0 +1,4 @@
+feature,psi_score,floored_bins,drift_assessment
+Tenure Months,3.0275,4,Significant Drift (PSI >= 0.2)
+Monthly Charges,1.0807,0,Significant Drift (PSI >= 0.2)
+Total Charges,1.2328,0,Significant Drift (PSI >= 0.2)

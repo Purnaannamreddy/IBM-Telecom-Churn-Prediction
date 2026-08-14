@@ -1,0 +1,13 @@
+metric,value
+raw_rows,7043.0
+final_rows,7043.0
+final_columns,29.0
+missing_cells,22.0
+missing_percent,0.010771272038267393
+duplicate_records,0.0
+duplicate_ids,0.0
+invalid_total_charges,11.0
+class_0_count,5174.0
+class_1_count,1869.0
+class_0_rate,0.7346301292063041
+class_1_rate,0.2653698707936959
