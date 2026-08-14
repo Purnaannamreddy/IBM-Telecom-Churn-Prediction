@@ -1,5 +1,5 @@
 # Explainable Customer Churn Prediction & Model Robustness
-### MSc Data Science / Machine Learning Final Project
+### SriRam Annamreddy
 
 ---
 
