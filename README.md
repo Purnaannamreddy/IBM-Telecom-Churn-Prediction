@@ -40,10 +40,10 @@ A clean, single-page web dashboard is included to demonstrate real-world deploym
 The interactive churn prediction dashboard is built with Streamlit in `app.py`.
 ### Step 1: Start the Streamlit Server
 Open your terminal (PowerShell, Command Prompt, or Bash) in the project root directory and run:
-```bash
-streamlit run app.py
----
 
+streamlit run app.py
+
+```bash
 
 
 ## Datasets Used
@@ -53,12 +53,11 @@ streamlit run app.py
 2. **Cell2Cell Dataset (`cell2celltrain.csv` & `cell2cellholdout.csv`)**:
    - An independent real-world mobile wireless dataset used strictly as an external test set to evaluate model robustness and measure data drift.
 
----
 
 ## How to Set Up and Run
 
 ### 1. Clone or Download the Repository
-```bash
+
 git clone https://github.com/Purnaannamreddy/telecom-churn-prediction-MSc-Project.git
 cd telecom-churn-prediction-MSc-Project
 
