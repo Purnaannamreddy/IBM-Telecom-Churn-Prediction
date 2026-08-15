@@ -56,6 +56,7 @@ streamlit run app.py
 ### 1. Clone or Download the Repository
 
 git clone https://github.com/Purnaannamreddy/telecom-churn-prediction-MSc-Project.git
+
 cd telecom-churn-prediction-MSc-Project
 
-```bash
+
