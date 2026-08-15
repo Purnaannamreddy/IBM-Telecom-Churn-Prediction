@@ -43,9 +43,6 @@ Open your terminal (PowerShell, Command Prompt, or Bash) in the project root dir
 
 streamlit run app.py
 
-```bash
-
-
 ## Datasets Used
 
 1. **IBM Telco Customer Churn (`IBM_Telco_customer_churn_IBM_dataset.csv`)**:
@@ -61,4 +58,4 @@ streamlit run app.py
 git clone https://github.com/Purnaannamreddy/telecom-churn-prediction-MSc-Project.git
 cd telecom-churn-prediction-MSc-Project
 
-
+```bash
